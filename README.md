@@ -2,6 +2,10 @@
 
 
 This is Preeti Sharma. I am working as a Blockchain Analyst at InfyU. I am familiar with Python, Blockchain, Flutter , Machine Learning, Tensorflow , Neural Network, Android and PyTorch.I have used MySQL as Databases, Django for frameworks . I have working experience of MicroService Architecture, Apache Maven , Kubernetes , Azure and Git.
+
+
+
+
 [![alt text][1.1]][1]
 
 [![alt text][3.1]][3]
