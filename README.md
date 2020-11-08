@@ -28,7 +28,7 @@ Hi,I'm Preeti Sharma🙌, a Blockchain Analyst, Programmer , Business Developer 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at Zubi.io .
+- 🔭 I’m currently contributing towards open source .
 - 🌱 I’m currently learning Neural Style Transfer.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
