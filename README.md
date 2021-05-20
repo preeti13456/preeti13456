@@ -20,7 +20,7 @@
 
 <br />
 
-Hi,I'm Preeti Sharma🙌, a Blockchain Trainee, Programmer , Business Developer and Data Science Enthusiast . Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Preeti Sharma🙌, a Blockchain Developer, Programmer , Business Developer and Data Science Enthusiast . Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
